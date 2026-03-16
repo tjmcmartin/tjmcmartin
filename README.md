@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋, I'm Tyler McMartin
 
-<!--
-**tjmcmartin/tjmcmartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developer, working on projects in my free time from school.  
+I'm aiming to become a Software Developer/Engineer in the future. I have a good grasp of coding fundamentals and am most familiar with C and Python.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Working On
+- Chess opening trainers (not live yet, but coming soon!)
+
+---
+
+## 🌱 Learning
+- Programming with C
+- Java
+
+---
+
+## 💻 Tech Stack
+- **Languages:** Python, C
+- **Frameworks/Libraries:** Pygame, python-chess
+- **Tools:** Git, GitHub, VS Code, Vim
+
+---
+
+## 📫 How to Reach Me
+- Email: tjmcmartin@gmail.com
+
+---
+
+## ⚡ Fun Facts
+- I love playing board games 🎲
+- Favorite video games 🎮: League of Legends, VALORANT, Celeste, Hollow Knight
+- I enjoy playing ultimate frisbee and soccer
+- I like reading, listening to audiobooks, and playing piano 🎹
