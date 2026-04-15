@@ -6,7 +6,7 @@ I'm aiming to become a Software Developer/Engineer in the future. I have a good 
 ---
 
 ## 🔭 Currently Working On
-- Chess opening trainers (not live yet, but coming soon!)
+- Chess opening trainers https://github.com/tjmcmartin/Chess-Trainer
 
 ---
 
