@@ -18,7 +18,7 @@ I'm aiming to become a Software Developer/Engineer in the future. I have a good 
 ---
 
 ## 💻 Tech Stack
-- **Languages:** Python, C
+- **Languages:** Python, C, a little Java
 - **Frameworks/Libraries:** Pygame, python-chess
 - **Tools:** Git, GitHub, VS Code, Vim
 
