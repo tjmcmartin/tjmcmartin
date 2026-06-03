@@ -7,6 +7,7 @@ I'm aiming to become a Software Developer/Engineer in the future. I have a good 
 
 ## 🔭 Currently Working On
 - Chess opening trainers https://github.com/tjmcmartin/Chess-Trainer
+- Archipelago Randomizer for Shattered Pixel Dungeon https://github.com/tjmcmartin/ap-shattered-pixel-dungeon
 
 ---
 
