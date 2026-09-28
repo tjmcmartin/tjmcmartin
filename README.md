@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Tyler McMartin
+# Hi there 👋, I'm Tyler McMartin :D
 
 I'm a beginner developer, working on projects in my free time from school.  
 I'm aiming to become a Software Developer/Engineer in the future. I have a good grasp of coding fundamentals and am most familiar with C and Python.
@@ -8,6 +8,7 @@ I'm aiming to become a Software Developer/Engineer in the future. I have a good 
 ## 🔭 Currently Working On
 - Chess opening trainers https://github.com/tjmcmartin/Chess-Trainer
 - Archipelago Randomizer for Shattered Pixel Dungeon https://github.com/tjmcmartin/ap-shattered-pixel-dungeon
+- Service Learning Project for school https://github.com/tjmcmartin/Service-Learning-Project
 
 ---
 
@@ -18,9 +19,9 @@ I'm aiming to become a Software Developer/Engineer in the future. I have a good 
 ---
 
 ## 💻 Tech Stack
-- **Languages:** Python, C, a little Java
+- **Languages:** Python, C, Java
 - **Frameworks/Libraries:** Pygame, python-chess
-- **Tools:** Git, GitHub, VS Code, Vim
+- **Tools:** Git, VS Code, Vi, Jetbrains
 
 ---
 
