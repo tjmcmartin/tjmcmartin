@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Tyler McMartin :D
 
 I'm a beginner developer, working on projects in my free time from school.  
-I'm aiming to become a Software Developer/Engineer in the future. I have a good grasp of coding fundamentals and am most familiar with C and Python.
+I'm aiming to become a Software Developer/Engineer in the future. I have a good grasp of coding fundamentals and am most familiar with C, Java and Python.
 
 ---
 
